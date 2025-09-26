@@ -1,0 +1,19 @@
+@import url('https://fonts.cdnfonts.com/css/gilroy-bold');            
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'gilroy', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.navbar .container-fluid {
+    justify-content: center !important;
+    max-width: 1100px;
+    margin: 0 auto;
+}
+
+
+.h-140 { height: 140px; }
+.mw-280 { max-width: 280px; }
